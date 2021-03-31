@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://thegr8coder.github.io/rushils_ghost_vanisher/](https://thegr8coder.github.io/rushils_ghost_vanisher/)
+> Open this page at [https://thegr8coder.github.io/ghostvanisher/](https://thegr8coder.github.io/ghostvanisher/)
 
 ## Use as Extension
 
@@ -10,22 +10,22 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/thegr8coder/rushils_ghost_vanisher** and import
+* search for **https://github.com/thegr8coder/ghostvanisher** and import
 
-## Edit this project ![Build status badge](https://github.com/thegr8coder/rushils_ghost_vanisher/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/thegr8coder/ghostvanisher/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/thegr8coder/rushils_ghost_vanisher** and click import
+* paste **https://github.com/thegr8coder/ghostvanisher** and click import
 
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/thegr8coder/rushils_ghost_vanisher/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/thegr8coder/ghostvanisher/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
